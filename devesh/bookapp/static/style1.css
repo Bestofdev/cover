@@ -1,0 +1,87 @@
+.bookpage{
+
+            width: 400px;
+            height: 625px;
+            color:black;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-image: url('Screenshot%202025-10-05%20193158.png');
+            background-size: cover;
+        }
+            
+        
+.insight{
+        color:whitesmoke;
+        
+    }
+        
+        
+.hrstyle{
+            width:100px;
+        }
+.author{
+        
+            display: inline;
+            position: relative;
+            color:rgb(48, 212, 136);
+            top:10px;
+            
+            font-family:Georgia;
+            font-size: medium;
+        }
+.booktitle{
+            color:rgb(0, 0, 0);
+            font-family: 'Courier New', Courier, monospace;
+            font-size: larger;
+            text-align: center;
+            position: relative;
+            top: 10px;
+        
+        }
+.id {
+            width:400px;
+            position: relative;
+            top:55px;
+            
+        }
+.pub{
+            color:whitesmoke;
+            font-size: medium;
+            position: relative;
+            top:25px;
+            left:330px;
+        }
+.ed{
+            color:whitesmoke;
+            font-size: medium;
+            font-family: Verdana;
+            position:relative;
+            
+        
+        }
+.subtitle{
+            color:rgb(88, 66, 25);
+            font-family: 'Courier New', Courier, monospace;
+            font-size: large;
+            position: relative;
+            left: 250px;
+           
+        }
+.mypic{
+            position: relative;
+            top: 10px;
+            left:300px;
+            width: 80px;
+            height: 100px;
+            background-size:contain;
+            border: 3px solid black;
+        }
+.text{
+            color:rgb(240, 153, 31);
+            font-family: "Trebuchet MS", Helvetica, sans-serif;
+            font-size: medium;
+            position: relative;
+            top: 20px;
+        }        
